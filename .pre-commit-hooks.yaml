@@ -1,6 +1,6 @@
 # .pre-commit-hooks.yaml
-- id: print-argument
-  name: print-argumentname
-  description: Print all files in argument
-  entry: print-arguments
+- id: python38-kernel-fixer
+  name: python38-kernel-fixer
+  description: Ensure python38 is applied
+  entry: python38-kernel-fixer
   language: python

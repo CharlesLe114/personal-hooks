@@ -1,0 +1,2 @@
+[console_scripts]
+python38-kernel-fixer = python38_kernel_fixer.main:main
